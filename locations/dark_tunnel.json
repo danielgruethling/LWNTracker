@@ -388,7 +388,7 @@
         "map_locations": [
           {
             "map": "dark_tunnel",
-            "x": 7697,
+            "x": 7337,
             "y": 3653
           }
         ]
@@ -403,7 +403,7 @@
         "map_locations": [
           {
             "map": "dark_tunnel",
-            "x": 7337,
+            "x": 6977,
             "y": 3653
           }
         ]
@@ -418,7 +418,7 @@
         "map_locations": [
           {
             "map": "dark_tunnel",
-            "x": 6977,
+            "x": 7697,
             "y": 3653
           }
         ]
