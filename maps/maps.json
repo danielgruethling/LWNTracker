@@ -1,0 +1,38 @@
+[
+  {
+    "name": "okun_shrine",
+    "location_size": 100,
+    "location_border_thickness": 1,
+    "img": "images/okun_shrine.png"
+  },
+  {
+    "name": "underground",
+    "location_size": 80,
+    "location_border_thickness": 1,
+    "img": "images/underground.png"
+  },
+  {
+    "name": "lava_ruins",
+    "location_size": 70,
+    "location_border_thickness": 1,
+    "img": "images/lava_ruins.png"
+  },
+  {
+    "name": "dark_tunnel",
+    "location_size": 90,
+    "location_border_thickness": 1,
+    "img": "images/dark_tunnel.png"
+  },
+  {
+    "name": "spirit_realm",
+    "location_size": 90,
+    "location_border_thickness": 1,
+    "img": "images/spirit_realm.png"
+  },
+  {
+    "name": "abyss",
+    "location_size": 90,
+    "location_border_thickness": 1,
+    "img": "images/abyss.png"
+  }
+]

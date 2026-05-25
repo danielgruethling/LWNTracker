@@ -1,0 +1,522 @@
+﻿[
+  {
+    "name": "Lava Ruins",
+    "children": [
+      {
+        "name": "Lava Ruins - 26. Teddy Bear",
+        "sections": [
+          {
+            "name": "Lava Ruins - 26. Teddy Bear"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 3825,
+            "y": 3670
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - 30. Merchant's Ledger from enemy",
+        "sections": [
+          {
+            "name": "Lava Ruins - 30. Merchant's Ledger from enemy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 3228,
+            "y": 2621
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - Chest on scaffolding",
+        "sections": [
+          {
+            "name": "Lava Ruins - Chest on scaffolding"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 3162,
+            "y": 2266
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - Chest on left side lava ledge",
+        "sections": [
+          {
+            "name": "Lava Ruins - Chest on left side lava ledge"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 2444,
+            "y": 2421
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - 29. Slave Branding Iron in barrel after dropping down",
+        "sections": [
+          {
+            "name": "Lava Ruins - 29. Slave Branding Iron in barrel after dropping down"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 2606,
+            "y": 2072
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - Absorption spell chest after dropping down",
+        "sections": [
+          {
+            "name": "Lava Ruins - Absorption spell chest after dropping down"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 439,
+            "y": 2299
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - Chest on right ruins ledge at shotgun enemies magic switch",
+        "sections": [
+          {
+            "name": "Lava Ruins - Chest on right ruins ledge at shotgun enemies magic switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 1046,
+            "y": 2971
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - Magic platform switch at shotgun enemies",
+        "sections": [
+          {
+            "name": "Lava Ruins - Magic platform switch at shotgun enemies"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 1332,
+            "y": 2792
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - 27. Fractured Stone Axe from red enemy behind destructible wall",
+        "sections": [
+          {
+            "name": "Lava Ruins - 27. Fractured Stone Axe from red enemy behind destructible wall"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 4075,
+            "y": 3057
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - Wind spell chest behind destructible walls",
+        "sections": [
+          {
+            "name": "Lava Ruins - Wind spell chest behind destructible walls"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 3812,
+            "y": 2857
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - 20. Weathered Cloak in corner on ruins top",
+        "sections": [
+          {
+            "name": "Lava Ruins - 20. Weathered Cloak in corner on ruins top"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 1690,
+            "y": 2548
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - 28. Cage on path to starting area shortcut gate",
+        "sections": [
+          {
+            "name": "Lava Ruins - 28. Cage on path to starting area shortcut gate"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 1785,
+            "y": 3245
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - Fake floor shortcut gate switch",
+        "sections": [
+          {
+            "name": "Lava Ruins - Fake floor shortcut gate switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 3716,
+            "y": 3446
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - Fake floor bait item",
+        "sections": [
+          {
+            "name": "Lava Ruins - Fake floor bait item"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 2177,
+            "y": 3315
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - Scissor enemy",
+        "sections": [
+          {
+            "name": "Lava Ruins - 23. Cursed Turquoise Necklace from scissor enemy"
+          },
+          {
+            "name": "Lava Ruins - Defeat scissor enemy barrier"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 4007,
+            "y": 3314
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - Lift magic switch at scissor enemy",
+        "sections": [
+          {
+            "name": "Lava Ruins - Lift magic switch at scissor enemy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 3877,
+            "y": 3314
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - 32. Slave Collar from ranged enemy in corner at spewing lava",
+        "sections": [
+          {
+            "name": "Lava Ruins - 32. Slave Collar from ranged enemy in corner at spewing lava"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 4298,
+            "y": 4419
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - Chest in spewing lava room",
+        "sections": [
+          {
+            "name": "Lava Ruins - Chest in spewing lava room"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 4288,
+            "y": 4211
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - Fire spell chest at double staircase",
+        "sections": [
+          {
+            "name": "Lava Ruins - Fire spell chest at double staircase"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 5232,
+            "y": 4318
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - 31. Slave Tag from pot atop of double staircase",
+        "sections": [
+          {
+            "name": "Lava Ruins - 31. Slave Tag from pot atop of double staircase"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 5292,
+            "y": 4284
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - Fire magic switch",
+        "sections": [
+          {
+            "name": "Lava Ruins - Fire magic switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 5077,
+            "y": 4317
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - 25. Copper Ingot on path through hole in wall",
+        "sections": [
+          {
+            "name": "Lava Ruins - 25. Copper Ingot on path through hole in wall"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 5919,
+            "y": 4188
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - 22. Intricate Clock from barrel in lava maze",
+        "sections": [
+          {
+            "name": "Lava Ruins - 22. Intricate Clock from barrel in lava maze"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 5510,
+            "y": 3389
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - Chest in lava maze",
+        "sections": [
+          {
+            "name": "Lava Ruins - Chest in lava maze"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 5681,
+            "y": 3421
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - Activate moving ring",
+        "sections": [
+          {
+            "name": "Lava Ruins - Activate moving ring"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 6270,
+            "y": 2504
+          },
+          {
+            "map": "lava_ruins",
+            "x": 4278,
+            "y": 2504
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - Jumping puzzle arcane chest at moving ring gauntlet",
+        "sections": [
+          {
+            "name": "Lava Ruins - Jumping puzzle arcane chest at moving ring gauntlet"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 5402,
+            "y": 2963
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - Monica shortcut switch",
+        "sections": [
+          {
+            "name": "Lava Ruins - Monica shortcut switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 4367,
+            "y": 3189
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - 21. Silver Coin from barrel at Monica statue",
+        "sections": [
+          {
+            "name": "Lava Ruins - 21. Silver Coin from barrel at Monica statue"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 3865,
+            "y": 1762
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - 24. Glass Lantern from scissor enemy",
+        "sections": [
+          {
+            "name": "Lava Ruins - 24. Glass Lantern from scissor enemy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 4364,
+            "y": 1028
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - Monica",
+        "sections": [
+          {
+            "name": "Lava Ruins - Monica"
+          },
+          {
+            "name": "Lava Ruins - Monica boss arena barrier"
+          },
+          {
+            "name": "Lava Ruins - 34. Bestian Ear from Monica"
+          },
+          {
+            "name": "Lava Ruins - 33. Bestian Palm from Monica"
+          },
+          {
+            "name": "Lava Ruins - 99. Child's Soul Shard from Monica"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 4368,
+            "y": 499
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - Monica warp gate switch",
+        "sections": [
+          {
+            "name": "Lava Ruins - Monica warp gate switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 3686,
+            "y": 3896
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - Ice spell chest in corner on path to dark tunnel",
+        "sections": [
+          {
+            "name": "Lava Ruins - Ice spell chest in corner on path to dark tunnel"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 1766,
+            "y": 3589
+          }
+        ]
+      },
+      {
+        "name": "Lava Ruins - 5. Melted Silver Candlestick in front of underground shortcut",
+        "sections": [
+          {
+            "name": "Lava Ruins - 5. Melted Silver Candlestick in front of underground shortcut"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lava_ruins",
+            "x": 2276,
+            "y": 4485
+          }
+        ]
+      }
+    ]
+  }
+]

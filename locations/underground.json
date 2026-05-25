@@ -1,0 +1,303 @@
+﻿[
+  {
+    "name": "Underground",
+    "children": [
+      {
+        "name": "Underground start lore",
+        "sections": [
+          {
+            "name": "Underground - 8. Hero's Cross Sword"
+          },
+          {
+            "name": "Underground - 9. Giant Axe"
+          },
+          {
+            "name": "Underground - 10. Shield of the Church"
+          },
+          {
+            "name": "Underground - 97. Faithful Soul Shard"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground",
+            "x": 971,
+            "y": 2277
+          }
+        ]
+      },
+      {
+        "name": "Underground - Wind spell chest",
+        "sections": [
+          {
+            "name": "Underground - Wind spell chest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground",
+            "x": 157,
+            "y": 2367
+          }
+        ]
+      },
+      {
+        "name": "Underground - 18. Soul Doll Remnant from first doll enemy",
+        "sections": [
+          {
+            "name": "Underground - 18. Soul Doll Remnant from first doll enemy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground",
+            "x": 1747,
+            "y": 2243
+          }
+        ]
+      },
+      {
+        "name": "Underground - Chest in alcove before falling rocks",
+        "sections": [
+          {
+            "name": "Underground - Chest in alcove before falling rocks"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground",
+            "x": 1426,
+            "y": 1385
+          }
+        ]
+      },
+      {
+        "name": "Underground - Chest across staircase on backtrack path",
+        "sections": [
+          {
+            "name": "Underground - Chest across staircase on backtrack path"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground",
+            "x": 1961,
+            "y": 1052
+          }
+        ]
+      },
+      {
+        "name": "Underground - 2. Stained Ribbon down on glowing rock",
+        "sections": [
+          {
+            "name": "Underground - 2. Stained Ribbon down on glowing rock"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground",
+            "x": 3622,
+            "y": 740
+          }
+        ]
+      },
+      {
+        "name": "Underground - Arcane chest at bridge jumping puzzle",
+        "sections": [
+          {
+            "name": "Underground - Arcane chest at bridge jumping puzzle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground",
+            "x": 3647,
+            "y": 264
+          }
+        ]
+      },
+      {
+        "name": "Underground - Ice spell chest in bottom pit",
+        "sections": [
+          {
+            "name": "Underground - Ice spell chest in bottom pit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground",
+            "x": 3460,
+            "y": 726
+          }
+        ]
+      },
+      {
+        "name": "Underground - Maid enemy ice barrier",
+        "sections": [
+          {
+            "name": "Underground - 17. Tattered Maid Outfit from maid enemy"
+          },
+          {
+            "name": "Underground - Magic barrier switches at maid enemy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground",
+            "x": 2788,
+            "y": 2918
+          }
+        ]
+      },
+      {
+        "name": "Underground - Cat absorption hint & gift",
+        "sections": [
+          {
+            "name": "Underground - Cat absorption hint & gift"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground",
+            "x": 2113,
+            "y": 2444
+          },
+          {
+            "map": "underground",
+            "x": 2857,
+            "y": 3302
+          }
+        ]
+      },
+      {
+        "name": "Underground - Lava ruins shortcut gate switch",
+        "sections": [
+          {
+            "name": "Underground - Lava ruins shortcut gate switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground",
+            "x": 3115,
+            "y": 4111
+          }
+        ]
+      },
+      {
+        "name": "Underground - Tania shortcut",
+        "sections": [
+          {
+            "name": "Underground - 15. Headcutter Circular Saw"
+          },
+          {
+            "name": "Underground - Tania shortcut switch on statue side"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground",
+            "x": 3375,
+            "y": 3277
+          }
+        ]
+      },
+      {
+        "name": "Underground - 16. Test Subject Manacle from barrel after fire",
+        "sections": [
+          {
+            "name": "Underground - 16. Test Subject Manacle from barrel after fire"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground",
+            "x": 2622,
+            "y": 5064
+          }
+        ]
+      },
+      {
+        "name": "Underground - Chest after fire",
+        "sections": [
+          {
+            "name": "Underground - Chest after fire"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground",
+            "x": 2880,
+            "y": 5612
+          }
+        ]
+      },
+      {
+        "name": "Underground - After fire magic switch",
+        "sections": [
+          {
+            "name": "Underground - After fire magic switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground",
+            "x": 2798,
+            "y": 5348
+          }
+        ]
+      },
+      {
+        "name": "Underground - Defeat enemies barrier",
+        "sections": [
+          {
+            "name": "Underground - Defeat enemies barrier"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground",
+            "x": 3960,
+            "y": 4636
+          }
+        ]
+      },
+      {
+        "name": "Underground - Tania shortcut switch on Tania side",
+        "sections": [
+          {
+            "name": "Underground - Tania shortcut switch on Tania side"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground",
+            "x": 3765,
+            "y": 3218
+          }
+        ]
+      },
+      {
+        "name": "Underground - Tania",
+        "sections": [
+          {
+            "name": "Underground - Defeat Tania"
+          },
+          {
+            "name": "Underground - Tania boss arena barrier"
+          },
+          {
+            "name": "Underground - 98. Lost Maiden's Soul Shard from Tania"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "underground",
+            "x": 5423,
+            "y": 2628
+          }
+        ]
+      }
+    ]
+  }
+]

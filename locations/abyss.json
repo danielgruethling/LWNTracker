@@ -1,0 +1,358 @@
+﻿[
+  {
+    "name": "Abyss",
+    "children": [
+      {
+        "name": "Abyss - 80. Ceremonial Incense at first statue",
+        "sections": [
+          {
+            "name": "Abyss - 80. Ceremonial Incense at first statue"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 2440,
+            "y": 3607
+          }
+        ]
+      },
+      {
+        "name": "Abyss - First gate switch",
+        "sections": [
+          {
+            "name": "Abyss - First gate switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 605,
+            "y": 2705
+          }
+        ]
+      },
+      {
+        "name": "Abyss - 81. Moonlight Blade from trapped barrel",
+        "sections": [
+          {
+            "name": "Abyss - 81. Moonlight Blade from trapped barrel"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 574,
+            "y": 2851
+          }
+        ]
+      },
+      {
+        "name": "Abyss - 82. Prostitute's Chiffon from crystal in trap gate",
+        "sections": [
+          {
+            "name": "Abyss - 82. Prostitute's Chiffon from crystal in trap gate"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 401,
+            "y": 2796
+          }
+        ]
+      },
+      {
+        "name": "Abyss - Chest in trap gate",
+        "sections": [
+          {
+            "name": "Abyss - Chest in trap gate"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 418,
+            "y": 2809
+          }
+        ]
+      },
+      {
+        "name": "Abyss - 83. Castle Blueprint from crystal on brittle ledge",
+        "sections": [
+          {
+            "name": "Abyss - 83. Castle Blueprint from crystal on brittle ledge"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 1187,
+            "y": 3483
+          }
+        ]
+      },
+      {
+        "name": "Abyss - Arcane spell chest on pillar",
+        "sections": [
+          {
+            "name": "Abyss - Arcane spell chest on pillar"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 871,
+            "y": 3946
+          }
+        ]
+      },
+      {
+        "name": "Abyss - 84. Witch Worshipper Puppet from pot right of pillars",
+        "sections": [
+          {
+            "name": "Abyss - 84. Witch Worshipper Puppet from pot right of pillars"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 877,
+            "y": 3893
+          }
+        ]
+      },
+      {
+        "name": "Abyss - Giant maid barrier",
+        "sections": [
+          {
+            "name": "Abyss - Giant maid barrier"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 1542,
+            "y": 3943
+          }
+        ]
+      },
+      {
+        "name": "Abyss - Trap gate trigger",
+        "sections": [
+          {
+            "name": "Abyss - Trap gate trigger"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 574,
+            "y": 3106
+          }
+        ]
+      },
+      {
+        "name": "Abyss - 85. Polymorphism Scroll from crystal behind gate",
+        "sections": [
+          {
+            "name": "Abyss - 85. Polymorphism Scroll from crystal behind gate"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 1184,
+            "y": 3218
+          }
+        ]
+      },
+      {
+        "name": "Abyss - 88. Hero Summon Rune in front of statue",
+        "sections": [
+          {
+            "name": "Abyss - 88. Hero Summon Rune in front of statue"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 2443,
+            "y": 1681
+          }
+        ]
+      },
+      {
+        "name": "Abyss - Underground trial",
+        "sections": [
+          {
+            "name": "Abyss - Fire Spell chest underground trial"
+          },
+          {
+            "name": "Abyss - Underground trial activate scissor enemies magic switch"
+          },
+          {
+            "name": "Abyss - 91. Gaseous Soul Essence from scissor enemy in underground trial"
+          },
+          {
+            "name": "Abyss - Underground trial scissor enemy barrier"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 975,
+            "y": 905
+          }
+        ]
+      },
+      {
+        "name": "Abyss - Underground trial magic switch",
+        "sections": [
+          {
+            "name": "Abyss - Underground trial magic switch"
+          },
+          {
+            "name": "Abyss - Underground Trial Complete"
+          },
+          {
+            "name": "Abyss - 92. Semi-gaseous Soul Essence in front of underground trial magic switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 2025,
+            "y": 1416
+          }
+        ]
+      },
+      {
+        "name": "Abyss - Thunder spell chest dark tunnel trial",
+        "sections": [
+          {
+            "name": "Abyss - Thunder spell chest dark tunnel trial"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 3926,
+            "y": 1524
+          }
+        ]
+      },
+      {
+        "name": "Abyss - Maid enemy in dark tunnel trial",
+        "sections": [
+          {
+            "name": "Abyss - 95. Refined Soul Shard from maid enemy in dark tunnel trial"
+          },
+          {
+            "name": "Abyss - Dark tunnel trial maid enemy barrier"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 4411,
+            "y": 913
+          }
+        ]
+      },
+      {
+        "name": "Abyss - Underground trial magic switch",
+        "sections": [
+          {
+            "name": "Abyss - Dark Tunnel trial magic switch"
+          },
+          {
+            "name": "Abyss - Dark Tunnel Trial Complete"
+          },
+          {
+            "name": "Abyss - 96. Knight's Soul Shard in front of dark tunnel trial magic switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 2442,
+            "y": 993
+          }
+        ]
+      },
+      {
+        "name": "Abyss - Ice spell chest lava ruins trial",
+        "sections": [
+          {
+            "name": "Abyss - Ice spell chest lava ruins trial"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 4408,
+            "y": 3272
+          }
+        ]
+      },
+      {
+        "name": "Abyss - Maid enemy in lava ruins trial",
+        "sections": [
+          {
+            "name": "Abyss - 93. Enchanted Soul Shard from maid enemy in lava ruins trial"
+          },
+          {
+            "name": "Abyss - Lava Ruins trial defeat maids enemy barrier"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 3527,
+            "y": 3529
+          }
+        ]
+      },
+      {
+        "name": "Abyss - Lava Ruins trial magic switch",
+        "sections": [
+          {
+            "name": "Abyss - Lava Ruins trial magic switch"
+          },
+          {
+            "name": "Abyss - Lava Ruins Trial Complete"
+          },
+          {
+            "name": "Abyss - 94. Knight's Soul Shard in front of lava ruins trial magic switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 2862,
+            "y": 1409
+          }
+        ]
+      },
+      {
+        "name": "Abyss - Nonota",
+        "sections": [
+          {
+            "name": "Abyss - 102. Lost Maiden's Crafted Soul Shard from Nonota"
+          },
+          {
+            "name": "Abyss - Nonota"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "abyss",
+            "x": 2444,
+            "y": 1410
+          }
+        ]
+      }
+    ]
+  }
+]

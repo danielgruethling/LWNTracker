@@ -1,0 +1,560 @@
+﻿[
+  {
+    "name": "Dark Tunnel",
+    "children": [
+      {
+        "name": "Dark Tunnel - 39. Dark Elf's Short Bow from barrel on scaffolding",
+        "sections": [
+          {
+            "name": "Dark Tunnel - 39. Dark Elf's Short Bow from barrel on scaffolding"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 1828,
+            "y": 3351
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - 43. Bloodstained Javelin from barrel at statue",
+        "sections": [
+          {
+            "name": "Dark Tunnel - 43. Bloodstained Javelin from barrel at statue"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 1803,
+            "y": 2651
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - Items from enemies at start",
+        "sections": [
+          {
+            "name": "Dark Tunnel - 40. Ogre's Kidney from first shield enemy"
+          },
+          {
+            "name": "Dark Tunnel - 41. Ogre's Eye from first ranged enemy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 788,
+            "y": 3738
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - First magic barrier switch",
+        "sections": [
+          {
+            "name": "Dark Tunnel - 44. Nomad's Cookware from barrel at magic barrier switch"
+          },
+          {
+            "name": "Dark Tunnel - First magic barrier switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 821,
+            "y": 3359
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - 42. Ogre's Club from shield enemy at gate switch",
+        "sections": [
+          {
+            "name": "Dark Tunnel - 42. Ogre's Club from shield enemy at gate switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 592,
+            "y": 4482
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - First gate switch",
+        "sections": [
+          {
+            "name": "Dark Tunnel - First gate switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 504,
+            "y": 4481
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - Absorption spell chest hidden behind rubble at staircase",
+        "sections": [
+          {
+            "name": "Dark Tunnel - Absorption spell chest hidden behind rubble at staircase"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 835,
+            "y": 3172
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - 45. Golden Coin from first mimic",
+        "sections": [
+          {
+            "name": "Dark Tunnel - 45. Golden Coin from first mimic"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 459,
+            "y": 2817
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - Chest at jump from broken staircase",
+        "sections": [
+          {
+            "name": "Dark Tunnel - Chest at jump from broken staircase"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 454,
+            "y": 2191
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - 46. Tooth Thief's Pouch from barrel at scaffolding",
+        "sections": [
+          {
+            "name": "Dark Tunnel - 46. Tooth Thief's Pouch from barrel at scaffolding"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 587,
+            "y": 643
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - Wind spell chest in dark hole",
+        "sections": [
+          {
+            "name": "Dark Tunnel - Wind spell chest in dark hole"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 548,
+            "y": 1990
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - 50. Crafted Soul Injector from pot at light switch after getting the hat",
+        "sections": [
+          {
+            "name": "Dark Tunnel - 50. Crafted Soul Injector from pot at light switch after getting the hat"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 2246,
+            "y": 2976
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - Light switch after getting the hat",
+        "sections": [
+          {
+            "name": "Dark Tunnel - Light switch after getting the hat"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 2273,
+            "y": 2822
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - 57. Lady's Feather Hat from puppeteer",
+        "sections": [
+          {
+            "name": "Dark Tunnel - 57. Lady's Feather Hat from puppeteer"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 2442,
+            "y": 2840
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - 47. Blood Orc's Skin Sample from barrel above dark maze",
+        "sections": [
+          {
+            "name": "Dark Tunnel - 47. Blood Orc's Skin Sample from barrel above dark maze"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 3868,
+            "y": 2552
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - Fire spell chest inside dark maze",
+        "sections": [
+          {
+            "name": "Dark Tunnel - Fire spell chest inside dark maze"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 5338,
+            "y": 2735
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - 48. Chief's Skull from right mimic in mimic room",
+        "sections": [
+          {
+            "name": "Dark Tunnel - 48. Chief's Skull from right mimic in mimic room"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 5885,
+            "y": 811
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - 49. Chief's Skull from straight mimic in mimic room",
+        "sections": [
+          {
+            "name": "Dark Tunnel - 49. Chief's Skull from straight mimic in mimic room"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 5793,
+            "y": 517
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - Thunder spell chest in mimic room",
+        "sections": [
+          {
+            "name": "Dark Tunnel - Thunder spell chest in mimic room"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 5796,
+            "y": 1350
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - 53. Ceremonial Sword from barrel at second statue",
+        "sections": [
+          {
+            "name": "Dark Tunnel - 53. Ceremonial Sword from barrel at second statue"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 6054,
+            "y": 1882
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - Thunder barrier magic switches",
+        "sections": [
+          {
+            "name": "Dark Tunnel - Thunder barrier magic switches"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 6519,
+            "y": 2000
+          },
+          {
+            "map": "dark_tunnel",
+            "x": 6519,
+            "y": 2362
+          },
+          {
+            "map": "dark_tunnel",
+            "x": 6746,
+            "y": 2182
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - 51. Hero's Insignia",
+        "sections": [
+          {
+            "name": "Dark Tunnel - 51. Hero's Insignia"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 6779,
+            "y": 2182
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - Chest in alcove",
+        "sections": [
+          {
+            "name": "Dark Tunnel - Chest in alcove"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 7153,
+            "y": 2280
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - 54. Banner of the Lance Hero from lightning enemy",
+        "sections": [
+          {
+            "name": "Dark Tunnel - 54. Banner of the Lance Hero from lightning enemy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 7335,
+            "y": 3090
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - Floating platform switch one",
+        "sections": [
+          {
+            "name": "Dark Tunnel - Floating platform switch one"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 7697,
+            "y": 3653
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - Floating platform switch two",
+        "sections": [
+          {
+            "name": "Dark Tunnel - Floating platform switch two"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 7337,
+            "y": 3653
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - Floating platform switch three",
+        "sections": [
+          {
+            "name": "Dark Tunnel - Floating platform switch three"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 6977,
+            "y": 3653
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - Chest on left side after floating platforms",
+        "sections": [
+          {
+            "name": "Dark Tunnel - Chest on left side after floating platforms"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 7386,
+            "y": 4405
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - Arcane spell chest on collapsed bridge",
+        "sections": [
+          {
+            "name": "Dark Tunnel - Arcane spell chest on collapsed bridge"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 7068,
+            "y": 7088
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - 52. Mutated Beast Claw from pot in big hall",
+        "sections": [
+          {
+            "name": "Dark Tunnel - 52. Mutated Beast Claw from pot in big hall"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 4938,
+            "y": 6252
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - 69. Pontiff's Scepter from singular barrel in side room",
+        "sections": [
+          {
+            "name": "Dark Tunnel - 69. Pontiff's Scepter from singular barrel in side room"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 5023,
+            "y": 6786
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - Knight enemy",
+        "sections": [
+          {
+            "name": "Dark Tunnel - 71. Apocalypse Knight Record from knight enemy"
+          },
+          {
+            "name": "Dark Tunnel - 103. Loyal Soul Shard from knight enemy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 4420,
+            "y": 7360
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - Chest after knight enemy",
+        "sections": [
+          {
+            "name": "Dark Tunnel - Chest after knight enemy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 4362,
+            "y": 7011
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - 65. Declaration of War from barrel at statue",
+        "sections": [
+          {
+            "name": "Dark Tunnel - 65. Declaration of War from barrel at statue"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 3327,
+            "y": 7268
+          }
+        ]
+      },
+      {
+        "name": "Dark Tunnel - Vanessa",
+        "sections": [
+          {
+            "name": "Dark Tunnel - Vanessa"
+          },
+          {
+            "name": "Dark Tunnel - 100. King's Final Honor from Vanessa"
+          },
+          {
+            "name": "Dark Tunnel - 78. Ancient Throne Rune from Vanessa"
+          },
+          {
+            "name": "Dark Tunnel - 77. The Throne from Vanessa"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "dark_tunnel",
+            "x": 3136,
+            "y": 8407
+          }
+        ]
+      }
+    ]
+  }
+]

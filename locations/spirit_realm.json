@@ -1,0 +1,580 @@
+﻿[
+  {
+    "name": "Spirit Realm",
+    "children": [
+      {
+        "name": "Spirit Realm - 72. Apocalypse Knight Shield from crystal at statue",
+        "sections": [
+          {
+            "name": "Spirit Realm - 72. Apocalypse Knight Shield from crystal at statue"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 6824,
+            "y": 1716
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - Trapped barrel",
+        "sections": [
+          {
+            "name": "Spirit Realm - 73. Apocalypse Knight Axe from enemy in trapped barrel"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 5612,
+            "y": 1749
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - 79. Doctor's Mask hidden on ledge",
+        "sections": [
+          {
+            "name": "Spirit Realm - 79. Doctor's Mask hidden on ledge"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 5230,
+            "y": 2063
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - Wind spell chest",
+        "sections": [
+          {
+            "name": "Spirit Realm - Wind spell chest inside roof hole"
+          },
+          {
+            "name": "Spirit Realm - Wind spell chest gate switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 5868,
+            "y": 2098
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - 55. Banner of the Lionhearted from crystal in doorway",
+        "sections": [
+          {
+            "name": "Spirit Realm - 55. Banner of the Lionhearted from crystal in doorway"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 8591,
+            "y": 5752
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - 75. Apocalypse Knight Bow from bow enemy",
+        "sections": [
+          {
+            "name": "Spirit Realm - 75. Apocalypse Knight Bow from bow enemy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 4830,
+            "y": 1725
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - 61. Knight Kingdom Entry Pass from sword enemy",
+        "sections": [
+          {
+            "name": "Spirit Realm - 61. Knight Kingdom Entry Pass from sword enemy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 4267,
+            "y": 1776
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - 58. Super Cleanser Soap from crystal on path",
+        "sections": [
+          {
+            "name": "Spirit Realm - 58. Super Cleanser Soap from crystal on path"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 3914,
+            "y": 1789
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - Chest hidden in dropdown alcove",
+        "sections": [
+          {
+            "name": "Spirit Realm - Chest hidden in dropdown alcove"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 3850,
+            "y": 1712
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - 63. Inquisitor's List from crystal at second statue",
+        "sections": [
+          {
+            "name": "Spirit Realm - 63. Inquisitor's List from crystal at second statue"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 3162,
+            "y": 2064
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - Right side alcove",
+        "sections": [
+          {
+            "name": "Spirit Realm - Ice spell chest in right side alcove"
+          },
+          {
+            "name": "Spirit Realm - Ice spell chest gate switch in right side alcove"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 2569,
+            "y": 1472
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - Lore from enemy",
+        "sections": [
+          {
+            "name": "Spirit Realm - 76. Apocalypse Knight Sword from enemy"
+          },
+          {
+            "name": "Spirit Realm - 74. Apocalypse Knight Staff from enemy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 2506,
+            "y": 1729
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - Arcane barrier magic switches",
+        "sections": [
+          {
+            "name": "Spirit Realm - Arcane barrier magic switches"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 2321,
+            "y": 1540
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - Thunder spell chest behind breakable wall",
+        "sections": [
+          {
+            "name": "Spirit Realm - Thunder spell chest behind breakable wall"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 2142,
+            "y": 1495
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - 86. Missing Person Poster on bridge",
+        "sections": [
+          {
+            "name": "Spirit Realm - 86. Missing Person Poster on bridge"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 2360,
+            "y": 1589
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - Platform shortcut switch",
+        "sections": [
+          {
+            "name": "Spirit Realm - Platform shortcut switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 2823,
+            "y": 1674
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - 59. Exquisite Leather Lamp from crystal before Seal",
+        "sections": [
+          {
+            "name": "Spirit Realm - 59. Exquisite Leather Lamp from crystal before Seal"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 1556,
+            "y": 1854
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - 66. Attic Key from crystal at first Seal phase",
+        "sections": [
+          {
+            "name": "Spirit Realm - 66. Attic Key from crystal at first Seal phase"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 1703,
+            "y": 2870
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - 64. Envoy's Rune from crystal at first Seal phase",
+        "sections": [
+          {
+            "name": "Spirit Realm - 64. Envoy's Rune from crystal at first Seal phase"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 1161,
+            "y": 2865
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - 60. Premium Grass Ash from crystal at first Seal phase",
+        "sections": [
+          {
+            "name": "Spirit Realm - 60. Premium Grass Ash from crystal at first Seal phase"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 1167,
+            "y": 2413
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - 62. Bone Chess Set from crystal at first Seal phase",
+        "sections": [
+          {
+            "name": "Spirit Realm - 62. Bone Chess Set from crystal at first Seal phase"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 1720,
+            "y": 2370
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - First Seal magic barrier",
+        "sections": [
+          {
+            "name": "Spirit Realm - First Seal magic barrier"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 1444,
+            "y": 2630
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - Second Seal phase",
+        "sections": [
+          {
+            "name": "Spirit Realm - 90. Enchanted Shackles from second Seal phase"
+          },
+          {
+            "name": "Spirit Realm - Second Seal magic barrier"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 1885,
+            "y": 3400
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - Fire spell chest at second Seal phase",
+        "sections": [
+          {
+            "name": "Spirit Realm - Fire spell chest at second Seal phase"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 1708,
+            "y": 3535
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - 87. Saint's Cane from crystal at third statue",
+        "sections": [
+          {
+            "name": "Spirit Realm - 87. Saint's Cane from crystal at third statue"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 3089,
+            "y": 3487
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - Statue shortcut gate switch",
+        "sections": [
+          {
+            "name": "Spirit Realm - Statue shortcut gate switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 3052,
+            "y": 2283
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - 67. Halfling's Forelimb from crystal at elevator magic switch",
+        "sections": [
+          {
+            "name": "Spirit Realm - 67. Halfling's Forelimb from crystal at elevator magic switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 4486,
+            "y": 4790
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - Elevator magic switch",
+        "sections": [
+          {
+            "name": "Spirit Realm - Elevator magic switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 4483,
+            "y": 4722
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - 68. Ratian Claw from crystal after elevator",
+        "sections": [
+          {
+            "name": "Spirit Realm - 68. Ratian Claw from crystal after elevator"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 4422,
+            "y": 3712
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - Absorption spell chest behind crystals after elevator",
+        "sections": [
+          {
+            "name": "Spirit Realm - Absorption spell chest behind crystals after elevator"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 4132,
+            "y": 3583
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - Fire control magic switch",
+        "sections": [
+          {
+            "name": "Spirit Realm - Fire control magic switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 4161,
+            "y": 3026
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - Magic switch barrier switch",
+        "sections": [
+          {
+            "name": "Spirit Realm - Magic switch barrier switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 3878,
+            "y": 4094
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - Teleporter magic switch",
+        "sections": [
+          {
+            "name": "Spirit Realm - Teleporter magic switch"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 4278,
+            "y": 4153
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - 70. Abandoned Rag Doll from crystal on spiral stairs",
+        "sections": [
+          {
+            "name": "Spirit Realm - 70. Abandoned Rag Doll from crystal on spiral stairs"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 4952,
+            "y": 4556
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - Chest before boss behind breakable wall",
+        "sections": [
+          {
+            "name": "Spirit Realm - Chest before boss behind breakable wall"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 5660,
+            "y": 4173
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - 89. Bloodstained Key at statue before boss",
+        "sections": [
+          {
+            "name": "Spirit Realm - 89. Bloodstained Key at statue before boss"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 6824,
+            "y": 4090
+          }
+        ]
+      },
+      {
+        "name": "Spirit Realm - Vanessa V2",
+        "sections": [
+          {
+            "name": "Spirit Realm - Vanessa V2"
+          },
+          {
+            "name": "Spirit Realm - 101. Proud King's Crafted Soul Shard from Vanessa V2"
+          },
+          {
+            "name": "Spirit Realm - Thunder spell from Vanessa V2"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spirit_realm",
+            "x": 6816,
+            "y": 3378
+          }
+        ]
+      }
+    ]
+  }
+]
